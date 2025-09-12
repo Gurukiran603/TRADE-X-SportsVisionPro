@@ -1,0 +1,5 @@
+opencv-python
+numpy
+matplotlib
+scipy
+git+https://github.com/abewley/sort.git
